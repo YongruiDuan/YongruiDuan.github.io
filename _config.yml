@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+# Site settings
+
+title: 段永瑞
+SEOTitle: 段永瑞的博客 | YongruiDuan Blog
+header-img: img/header.png
+email: duanyongrui@gmail.com
+description: "描述"
+keyword: "段永瑞, duanyongrui"
+url: "https://YongruiDuan.github.io"
+baseurl: ""
