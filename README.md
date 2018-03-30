@@ -1,9 +1,9 @@
+
+## Welcome to GitHub Pages
 ## 欢迎来到段永瑞的技术博客
 
-- 目前博客刚开，内容较简单
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
